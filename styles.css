@@ -1,0 +1,10 @@
+@media screen and (min-width: 577px) {
+  .mac-img {
+    margin-left: 187px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .mac-img {
+    margin-left: 31px;
+  }
+}
